@@ -16,6 +16,11 @@ The core functionality of this project can be broken down into three key compone
 2. **Summarization and Key Point Extraction**: Leveraging IBM Watson's advanced language models to analyze the transcription and generate a concise summary while highlighting the key decisions and points discussed.
 3. **User Interface**: Building a simple and intuitive UI using Gradio, allowing users to upload their meeting audio and receive the transcription and summary.
 
+<p align="center">
+  <img src="https://github.com/so123-design/AI-Powered-Meeting-Transcription-and-Summarization-Application/blob/7c715f3e4b549a647e796b32e2ded63e71d48039/App%20screenshot%202.PNG
+" alt="My Image" width="300">
+</p>
+
 ---
 
 ## Requirements
